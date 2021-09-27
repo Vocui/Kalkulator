@@ -1,0 +1,15 @@
+D:\Lekcje\Aplikacje desktopowe\Projekt\bin\Debug\Projekt.exe.config
+D:\Lekcje\Aplikacje desktopowe\Projekt\bin\Debug\Projekt.exe
+D:\Lekcje\Aplikacje desktopowe\Projekt\bin\Debug\Projekt.pdb
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\MainWindow.g.cs
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\App.g.cs
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\MainWindow.baml
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\Projekt.g.resources
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\Projekt.exe
+D:\Lekcje\Aplikacje desktopowe\Projekt\obj\Debug\Projekt.pdb
